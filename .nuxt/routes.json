@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Volumes/Mac HDD/HDD Documents/Pogung Engineer/booking-apps-nuxtjs-electron/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_9aa82060"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Volumes/Mac HDD/HDD Documents/Pogung Engineer/booking-apps-nuxtjs-electron/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_67252948"
+  }
+]
